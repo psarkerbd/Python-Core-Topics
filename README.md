@@ -1,2 +1,2 @@
 # Python
-All of My Practice on Python
+All of My Practices on Python
