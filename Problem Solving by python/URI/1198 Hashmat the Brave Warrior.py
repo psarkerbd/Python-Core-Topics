@@ -4,7 +4,7 @@ Created on Thu Jun 29 22:17:28 2017
 
 @author: Pranta Sarker
 """
-# python 2.7
+# python 2
 
 while True:
     try:
