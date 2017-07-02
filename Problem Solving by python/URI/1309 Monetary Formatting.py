@@ -69,7 +69,7 @@ print(cent, '');
 
 # In[ ]:
 
-#Code start from here....
+# Code start from here....
 
 from __future__ import print_function;
 
