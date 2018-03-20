@@ -1,5 +1,5 @@
 # Geatting Started
-This repository belongs to the all core basic related topics about Python.
+This repository belongs to the all core related topics about Python.
 
 # Trying to solve problem
 Tried to solve some problems on URI Online Judge by Python.
