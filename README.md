@@ -5,7 +5,7 @@ This repository belongs to the all core related topics about Python.
 Tried to solve some problems on URI Online Judge by Python.
 
 # Repository Contains
-Here contains...
+Here contains... <br/>
 i. Corpus or file testing code on the 'Corpus Testing' folder
 ii. Implemented BFS and DFS 'Graph' folder.
 iii. Practiced basic python data structure on jupyter on 'Practiced Code' folder.
