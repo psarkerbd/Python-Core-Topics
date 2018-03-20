@@ -1,5 +1,3 @@
-# Python Core Topics
-
 # Geatting Started
 This repository belongs to the all core basic related topics about Python.
 
